@@ -1,0 +1,33 @@
+Perkenalan PHP
+
+Langkah 1: Memahami PHP
+PHP adalah bahasa skrip sisi server untuk web.
+Bisa disisipkan ke HTML.
+Open source dan gratis.
+
+Langkah 2: Menyiapkan Lingkungan
+- Install XAMPP/WAMP/MAMP
+- Gunakan PHP versi terbaru
+- Pakai editor (VS Code, dll)
+
+Langkah 3: Hello World
+Contoh kode:
+<?php
+echo "Hello, World!";
+?>
+
+Langkah 4: Sintaks Dasar
+- Dimulai dengan <?php dan diakhiri ?>
+- Setiap pernyataan diakhiri ;
+
+Langkah 5: Variabel
+$name = "John";
+$age = 30;
+
+Tipe data:
+- String
+- Integer
+- Float
+- Boolean
+- Array
+- Object

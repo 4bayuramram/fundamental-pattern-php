@@ -1,0 +1,45 @@
+PERKENALAN
+
+Tutorial ini bertujuan untuk memperkenalkan pemula pada pemrograman PHP melalui langkah terstruktur. Di akhir, Anda akan memahami dasar PHP dan siap membuat web dinamis.
+
+LANGKAH 1: MEMAHAMI PHP
+- PHP adalah bahasa skrip sisi server untuk web
+- Bisa disisipkan ke HTML
+- Open source dan gratis
+
+LANGKAH 2: MENYIAPKAN LINGKUNGAN
+- Install: XAMPP / WAMP / MAMP
+- Gunakan PHP versi terbaru
+- Editor: VS Code / Sublime / PHPStorm
+
+LANGKAH 3: HELLO WORLD
+Contoh kode:
+<?php
+echo "Hello, World!";
+?>
+
+Cara menjalankan:
+- Simpan: hello.php
+- Taruh di folder htdocs
+- Buka: http://localhost/hello.php
+
+LANGKAH 4: SINTAKS DASAR
+- Dimulai: <?php dan diakhiri ?>
+- Akhiri dengan ;
+- Gunakan ' atau " untuk string
+
+LANGKAH 5: VARIABEL & TIPE DATA
+Contoh:
+$name = "John";
+$age = 30;
+
+Tipe data:
+- String
+- Integer
+- Float
+- Boolean
+- Array
+- Object
+
+KESIMPULAN
+Materi ini adalah dasar PHP: setup, sintaks, dan contoh sederhana. Selanjutnya bisa belajar kontrol, fungsi, dan form.

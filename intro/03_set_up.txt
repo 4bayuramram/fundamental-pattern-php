@@ -1,0 +1,36 @@
+SETUP LINGKUNGAN PHP
+
+Tutorial ini menjelaskan cara menyiapkan lingkungan PHP: server web, PHP, dan database.
+
+LANGKAH 1: INSTAL SERVER WEB
+- Pilih: Apache (disarankan pemula)
+- Download dari Apache Lounge
+- Konfigurasi httpd.conf:
+  LoadModule php_module "C:/path/to/php/php7apache2_4.dll"
+  AddType application/x-httpd-php .php
+
+LANGKAH 2: INSTAL PHP
+- Download PHP (Thread Safe)
+- Ekstrak ke: C:\php
+- Ubah php.ini-development → php.ini
+- Aktifkan ekstensi (contoh: extension=mysqli)
+
+LANGKAH 3: INSTAL DATABASE
+- Gunakan MySQL
+- Install dan set password root
+- Kelola via MySQL Workbench / CMD
+
+LANGKAH 4: TEST
+Buat file info.php:
+<?php
+phpinfo();
+?>
+
+Cara cek:
+- Simpan di folder htdocs
+- Buka: http://localhost/info.php
+- Jika tampil info PHP → berhasil
+
+KESIMPULAN
+Lingkungan PHP siap: server + PHP + database.
+Siap lanjut belajar coding PHP.
