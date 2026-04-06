@@ -1,0 +1,24 @@
+
+
+
+Berikut 10 soal latihan variabel PHP. Semua soal harus dijawab dalam satu file bernama jawaban.php tanpa error saat dijalankan.
+
+Soal 1 Buat variabel $nama berisi nama kamu lalu tampilkan ke terminal.
+
+Soal 2 Buat variabel $umur berisi angka umur kamu lalu tampilkan dengan teks: Umur saya adalah ...
+
+Soal 3 Buat dua variabel: $namaDepan $namaBelakang Gabungkan lalu tampilkan menjadi 1 baris.
+
+Soal 4 Buat contoh case-sensitive: $nama $Nama Isi berbeda lalu tampilkan keduanya.
+
+Soal 5 Buat contoh assignment by value: $a = 10 Salin ke $b Ubah $b = 20 Tampilkan $a dan $b
+
+Soal 6 Buat contoh assignment by reference menggunakan & Buktikan perubahan mempengaruhi variabel asli.
+
+Soal 7 Buat variabel global $angka = 5 Gunakan dalam function dengan keyword global Jumlahkan dengan angka lain.
+
+Soal 8 Gunakan $GLOBALS Jumlahkan dua variabel global.
+
+Soal 9 Buat function counter menggunakan static Panggil 3 kali.
+
+Soal 10 Buat variable variable: Gunakan $kata = "buah" Isi $buah = "apel" melalui variable variable. Tampilkan hasilnya.
