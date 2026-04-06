@@ -1,0 +1,62 @@
+SOAL LATIHAN OPERATOR PHP DASAR 
+
+Instruksi:
+Setiap soal harus dijawab dengan menulis kode PHP yang bisa dijalankan.
+Gunakan echo atau var_dump untuk membuktikan hasilnya.
+
+1. Buat variabel $a = 12 dan $b = 4.
+   Tampilkan hasil:
+   a. penjumlahan
+   b. pengurangan
+   c. perkalian
+   d. pembagian
+   e. modulus
+
+2. Buat variabel $c = 5.
+   Tampilkan hasil penggunaan:
+   ++$c
+   $c++
+   lalu tampilkan nilai akhir $c.
+
+3. Buat variabel $d = 20.
+   Gunakan operator assignment += lalu tampilkan hasil akhirnya.
+
+4. Buat variabel:
+   $e = 10
+   $f = "10"
+   Tampilkan perbedaan hasil:
+   var_dump($e == $f)
+   var_dump($e === $f)
+
+5. Buat variabel:
+   $g = true
+   $h = false
+   Tampilkan hasil:
+   $g && $h
+   $g || $h
+   !$g
+
+6. Buat dua string:
+   $nama = "Belajar"
+   $materi = "PHP"
+   Gabungkan menggunakan operator string dan tampilkan hasilnya.
+
+7. Buat dua array:
+   $array1 = ["x" => 1]
+   $array2 = ["y" => 2]
+   Gabungkan menggunakan operator array lalu tampilkan hasilnya.
+
+8. Buat variabel $nilai = 70.
+   Gunakan ternary operator untuk menentukan status:
+   "LULUS" jika >= 75
+   "TIDAK LULUS" jika < 75
+   lalu tampilkan hasilnya.
+
+9. Gunakan operator null coalescing (??)
+   untuk menampilkan:
+   $_GET['nama'] jika ada
+   "Guest" jika tidak ada
+
+10. Buat class Mobil.
+    Buat object dari class tersebut.
+    Gunakan instanceof untuk mengecek apakah object tersebut bertipe Mobil lalu tampilkan hasilnya.
