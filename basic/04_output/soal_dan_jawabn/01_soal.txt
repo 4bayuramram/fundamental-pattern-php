@@ -1,0 +1,34 @@
+Latihan Output Php
+
+Soal Latihan PHP - Materi Output (echo, print)
+
+Tampilkan tulisan "Hello PHP" menggunakan echo.
+Tampilkan dua string sekaligus menggunakan echo dengan multiple argument.
+Tampilkan kalimat "Belajar PHP itu mudah" menggunakan print.
+Buat variabel $nama = "Budi" lalu tampilkan menggunakan echo.
+Gabungkan string "Nama saya " dan variabel $nama menggunakan operator titik.
+Buat variabel $umur = 20 lalu tampilkan dengan interpolasi string.
+Buat array ["PHP","JS","HTML"] lalu tampilkan dengan print_r().
+Buat script yang menampilkan HTML Judul Belajar menggunakan echo.
+Buat output buffering sederhana: simpan echo "Latihan" ke buffer lalu tampilkan.
+Tampilkan input user berisi tag tes secara aman menggunakan htmlspecialchars().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
