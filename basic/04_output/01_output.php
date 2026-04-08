@@ -9,6 +9,9 @@ untuk pemula, berdasarkan dokumentasi resmi PHP.
 Output digunakan untuk menampilkan teks, angka, variabel, maupun HTML
 ke browser. Fungsi yang paling umum adalah echo dan print.
 Keduanya mirip, tetapi memiliki beberapa perbedaan kecil.
+
+jalankan file 
+ php basic/04_output/01_output.php 
 */
 
 

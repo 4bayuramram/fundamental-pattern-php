@@ -5,6 +5,9 @@ File: jawaban.php
 File ini berisi jawaban dari 10 soal tentang Output PHP (echo, print)
 Dilengkapi penjelasan bagaimana tiap soal diselesaikan.
 
+menjalankan file : 
+php basic/04_output/soal_dan_jawaban/01_jawaban.php
+
 */
 
 /*

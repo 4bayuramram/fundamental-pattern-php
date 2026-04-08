@@ -1,0 +1,42 @@
+10 Soal Latihan PHP Control Flow (if & switch)
+
+Instruksi:
+
+* Jawab setiap soal dengan kode PHP
+* Kumpulkan semua jawaban dalam satu file PHP
+
+1. Buat kondisi untuk mengecek apakah nilai >= 75, jika ya tampilkan "Lulus".
+
+2. Buat program untuk mengecek umur:
+   jika >= 18 tampilkan "Dewasa", selain itu "Anak".
+
+3. Buat kondisi nilai:
+
+   > = 90 = A
+   > = 80 = B
+   > = 70 = C
+   > selain itu D
+
+4. Buat nested if:
+   jika user login dan role = admin tampilkan "Akses diterima".
+
+5. Gunakan switch untuk mengecek hari:
+   Senin–Jumat = "Hari kerja"
+   Sabtu/Minggu = "Libur"
+
+6. Buat switch tanpa break dan jelaskan outputnya dengan kode.
+
+7. Gunakan ternary operator untuk menentukan:
+   jika umur >= 18 = "Dewasa", else "Anak".
+
+8. Gunakan null coalescing untuk mengambil username dari $_GET,
+   jika tidak ada tampilkan "Guest".
+
+9. Buat kondisi untuk mengecek angka:
+   jika genap tampilkan "Genap", jika ganjil "Ganjil".
+
+10. Gabungkan:
+    input nilai dan tampilkan:
+
+    * Lulus jika >= 75
+    * Grade (A/B/C/D)
