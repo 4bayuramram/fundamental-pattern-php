@@ -1,0 +1,37 @@
+PHP Function – Latihan Pemula
+=============================
+
+Petunjuk:
+- Jawaban ditulis langsung dengan kode PHP.
+- Kumpulkan semua jawaban dalam satu file PHP.
+- Pastikan kode bisa dijalankan tanpa error.
+
+Soal:
+
+1. Buat sebuah function bernama "halo" yang menampilkan teks "Halo Dunia!" ketika dipanggil.
+
+2. Buat function "salam" yang menerima satu parameter nama dan menampilkan "Halo, [nama]!".
+   Contoh: salam("Budi") → Halo, Budi!
+
+3. Buat function "tambah" yang menerima dua parameter angka dan mengembalikan hasil penjumlahan keduanya.
+   Simpan hasil return ke variabel $hasil dan tampilkan.
+
+4. Buat function "perkenalan" yang memiliki parameter default $nama="Anonim" dan menampilkan
+   "Nama saya [nama]". Panggil function ini dua kali: tanpa parameter dan dengan parameter "Rina".
+
+5. Buat function "ubahNilai" yang menerima parameter angka secara reference dan menambahkan 10 ke nilai tersebut.
+   Tampilkan nilai setelah function dipanggil.
+
+6. Buat function "jumlahSemua" yang menerima jumlah parameter tak terbatas dan mengembalikan totalnya.
+   Contoh: jumlahSemua(1,2,3,4) → 10
+
+7. Buat function "faktorial" yang menerima satu parameter n dan mengembalikan hasil faktorial n menggunakan recursion.
+   Tampilkan faktorial dari 5.
+
+8. Buat function anonymous (closure) dan simpan ke variabel $haloAnonim, yang menerima satu parameter nama
+   dan menampilkan "Halo [nama]". Panggil function ini dengan parameter "Andi".
+
+9. Buat function yang menggunakan keyword global untuk menjumlahkan dua variabel global $a=5 dan $b=10
+   dan menampilkan hasilnya.
+
+10. Buat function yang menampilkan panjang string dari variabel $teks = "Belajar PHP" menggunakan function built-in strlen().

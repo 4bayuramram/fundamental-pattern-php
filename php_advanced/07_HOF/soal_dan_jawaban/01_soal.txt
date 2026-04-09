@@ -1,0 +1,29 @@
+Soal Higher-order Function PHP - Latihan Praktik
+
+1. Buatlah anonymous function yang menerima nama dan mengembalikan string "Halo, <nama>!".
+   Contoh output: Halo, Budi!
+
+2. Buatlah fungsi higher-order bernama applyOperation yang menerima dua angka dan sebuah fungsi operasi.
+   Gunakan untuk menghitung 7 + 3 menggunakan anonymous function.
+
+3. Buatlah fungsi multiplier($factor) yang mengembalikan fungsi untuk mengalikan angka.
+   Gunakan untuk membuat fungsi $double dan $triple, lalu tampilkan hasil $double(6) dan $triple(4).
+
+4. Gunakan array_map untuk mengubah array [1,2,3,4] menjadi array kuadrat dari tiap elemen.
+
+5. Gunakan array_filter untuk mengambil hanya bilangan genap dari array [5,6,7,8,9,10].
+
+6. Gunakan array_reduce untuk menjumlahkan semua elemen dari array [2,4,6,8].
+
+7. Buat fungsi executor(callable $fn, $value) yang menjalankan $fn($value).
+   Gunakan untuk menghitung hasil 7 * 10.
+
+8. Buat fungsi yang menerima fungsi lain sebagai parameter, lalu menambahkan 5 ke hasil fungsi tersebut.
+   Contoh: fungsi inner($x){ return $x * 2; } → hasilnya (7*2)+5 = 19.
+
+9. Buatlah anonymous function yang menerima string, lalu mengubah semua huruf menjadi huruf besar. 
+   Gunakan dengan executor function dari soal 7.
+
+10. Buat fungsi higher-order yang menerima array angka dan fungsi callback.
+    Fungsi ini harus mengembalikan array hasil penerapan callback ke tiap elemen. 
+    Uji dengan array [1,2,3] dan callback yang mengalikan tiap elemen dengan 3.
