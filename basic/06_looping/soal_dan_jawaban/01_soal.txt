@@ -1,0 +1,37 @@
+LATIHAN LOOPING PHP – UNTUK PEMULA
+
+Instruksi:
+- Jawablah setiap soal dengan menulis kode PHP yang sesuai.
+- Kode jawaban akan digabung dalam satu file PHP ketika selesai.
+- Gunakan loop yang tepat sesuai permintaan soal.
+
+1. FOR Loop Sederhana
+Tulis program menggunakan for loop yang menampilkan angka dari 1 sampai 10, masing-masing di baris baru.
+
+2. WHILE Loop Sederhana
+Tulis program menggunakan while loop yang menampilkan angka ganjil dari 1 sampai 9.
+
+3. DO...WHILE Loop
+Tulis program menggunakan do...while loop yang menampilkan angka dari 5 sampai 1 (turun).
+
+4. FOREACH Loop – Array
+Buat array ["PHP", "HTML", "CSS"] lalu tampilkan setiap elemen menggunakan foreach.
+
+5. FOREACH Loop dengan Key dan Value
+Buat array ["nama"=>"Budi", "umur"=>20, "kota"=>"Jakarta"] lalu tampilkan key dan value masing-masing menggunakan foreach.
+
+6. BREAK
+Tulis program menggunakan for loop dari 1 sampai 10, tapi hentikan loop ketika mencapai angka 7 menggunakan break.
+
+7. CONTINUE
+Tulis program menggunakan for loop dari 1 sampai 10, tapi lewati angka genap menggunakan continue.
+
+8. Nested Loop
+Buat program dengan nested for loop untuk menampilkan tabel koordinat (i,j) dari i=1..3 dan j=1..3.
+
+9. Loop Penjumlahan
+Buat program menggunakan while loop untuk menjumlahkan angka dari 1 sampai 100, lalu tampilkan totalnya.
+
+10. Loop Array dan Kondisi
+Buat array ["apel", "jeruk", "mangga", "pisang"].
+Gunakan foreach untuk menampilkan semua buah, tapi skip "jeruk" menggunakan continue.
