@@ -1,0 +1,31 @@
+=== Soal PHP Array Functions ===
+
+1. Buat array $angka berisi 1 sampai 5. Gunakan array_map untuk membuat array baru $kuadrat
+   yang berisi kuadrat dari tiap elemen $angka.
+
+2. Buat array $nilai = [10, 15, 20, 25, 30]. Gunakan array_filter untuk membuat array $genap
+   yang hanya berisi angka genap.
+
+3. Buat array $angka = [1, 2, 3, 4, 5]. Gunakan array_reduce untuk menghitung jumlah semua
+   elemen dan simpan dalam variabel $total.
+
+4. Buat array $buah = ["apel","jeruk","mangga"]. Gunakan array_walk untuk mengubah semua
+   nama buah menjadi huruf besar.
+
+5. Gabungkan dua array $arr1 = ["a","b"] dan $arr2 = ["c","d"] menggunakan fungsi
+   array_merge. Simpan hasilnya ke $hasilGabung.
+
+6. Buat array $huruf = ["a","b","c","d","e"]. Ambil elemen ke-2 sampai ke-4 menggunakan
+   array_slice dan simpan di $subset.
+
+7. Cek apakah key "umur" ada di array $data = ["nama"=>"Budi","umur"=>20]. Gunakan
+   array_key_exists. Simpan hasil TRUE/FALSE di $cekKey.
+
+8. Cek apakah nilai "Budi" ada dalam array $data = ["nama"=>"Budi","umur"=>20].
+   Gunakan in_array. Simpan hasil TRUE/FALSE di $cekValue.
+
+9. Buat array $nilai = [3,1,4,2]. Urutkan array ini secara ascending menggunakan sort
+   dan simpan hasilnya di $urut.
+
+10. Buat dua array $keys = ["nama","umur"] dan $values = ["Andi",25]. Gabungkan kedua
+    array menjadi array assosiatif menggunakan array_combine dan simpan di $dataBaru.
