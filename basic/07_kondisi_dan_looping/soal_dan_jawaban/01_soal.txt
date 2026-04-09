@@ -1,0 +1,37 @@
+Soal PHP Conditional + Looping
+
+1. Buat variabel $umur dan berikan nilai 18. 
+   Tulis conditional if-else untuk menampilkan:
+   - "Dewasa" jika umur >= 17
+   - "Belum Dewasa" jika umur < 17
+
+2. Buat variabel $hari dan berikan nilai "Rabu". 
+   Gunakan switch-case untuk menampilkan pesan:
+   - "Hari kerja" untuk Senin s/d Jumat
+   - "Akhir minggu" untuk Sabtu & Minggu
+
+3. Buat perulangan for dari 1 sampai 10. 
+   Tampilkan setiap angka di satu baris menggunakan echo.
+
+4. Buat perulangan while yang menampilkan angka genap dari 2 sampai 10.
+
+5. Buat perulangan do-while yang menampilkan angka dari 1 sampai 5.
+
+6. Buat array $buah = ["apel", "jeruk", "mangga"]. 
+   Gunakan foreach untuk menampilkan semua isi array.
+
+7. Buat perulangan for dari 1 sampai 10. 
+   Gunakan break untuk menghentikan loop ketika angka sama dengan 6.
+
+8. Buat perulangan for dari 1 sampai 5. 
+   Gunakan continue untuk melewati angka 3, dan tampilkan sisanya.
+
+9. Buat nested loop:
+   - Outer loop dari 1 sampai 3
+   - Inner loop dari 1 sampai 2
+   Tampilkan kombinasi angka seperti "Outer=1, Inner=1"
+
+10. Buat variabel $angka = 7
+    Gunakan ternary operator untuk menampilkan:
+    - "Genap" jika $angka habis dibagi 2
+    - "Ganjil" jika $angka tidak habis dibagi 2

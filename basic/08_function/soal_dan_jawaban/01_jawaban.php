@@ -9,7 +9,7 @@ Penjelasan:
   dan contoh output yang akan muncul saat dijalankan di terminal.
 - Tujuan: membantu pemula memahami konsep function, parameter, return, reference, recursion, anonymous function, global variable, dan function built-in.
 
-php basic/07_function/soal_dan_jawaban/01_jawaban.php (for run)
+php basic/08_function/soal_dan_jawaban/01_jawaban.php (for run)
 */
 
 /* ========================

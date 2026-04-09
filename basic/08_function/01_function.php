@@ -11,7 +11,7 @@ tugas tertentu. Function membantu membuat kode lebih terstruktur, modular, dan
 mudah dipelihara. PHP memiliki function built-in dan memungkinkan kita membuat 
 function sendiri (user-defined function).
 
-php basic/07_function/01_function.php (for run)
+php basic/08_function/01_function.php (for run)
 */
 
 // 1. Apa itu Function?
