@@ -1,0 +1,77 @@
+=== Soal Latihan: Associative Array PHP ===
+
+Instruksi:
+- Jawab setiap soal dengan menuliskan kode PHP
+- Semua jawaban dikumpulkan dalam SATU FILE PHP
+- Gunakan konsep associative array sesuai materi
+
+----------------------------------------
+
+1. Buat sebuah associative array bernama $mahasiswa yang berisi:
+   - nama = "Andi"
+   - umur = 21
+   - jurusan = "Informatika"
+   Tampilkan seluruh isi array tersebut menggunakan print_r.
+
+----------------------------------------
+
+2. Dari array $mahasiswa pada soal nomor 1,
+   tampilkan nilai dari key "nama" dan "jurusan".
+
+----------------------------------------
+
+3. Tambahkan data baru ke dalam array $mahasiswa:
+   - ipk = 3.8
+   Lalu tampilkan hasil akhirnya.
+
+----------------------------------------
+
+4. Ubah nilai "umur" pada array $mahasiswa menjadi 22,
+   kemudian tampilkan hasilnya.
+
+----------------------------------------
+
+5. Hapus key "jurusan" dari array $mahasiswa,
+   lalu tampilkan array setelah dihapus.
+
+----------------------------------------
+
+6. Buat program untuk mengecek apakah key "nama" ada
+   dalam array $mahasiswa menggunakan array_key_exists.
+
+----------------------------------------
+
+7. Buat program untuk mengecek apakah value "Andi"
+   terdapat dalam array menggunakan in_array.
+
+----------------------------------------
+
+8. Lakukan looping pada array $mahasiswa menggunakan foreach,
+   dan tampilkan dengan format:
+   key : value
+
+----------------------------------------
+
+9. Buat associative array multidimensi bernama $users yang berisi 2 data:
+   - User 1: nama = "Budi", umur = 20
+   - User 2: nama = "Siti", umur = 22
+
+   Tampilkan nama dari user kedua.
+
+----------------------------------------
+
+10. Buat dua array:
+    $keys = ["nama", "umur"]
+    $values = ["Rina", 19]
+
+    Gabungkan menjadi associative array menggunakan array_combine,
+    lalu tampilkan hasilnya.
+
+----------------------------------------
+
+Catatan:
+- Semua jawaban ditulis dalam 1 file PHP
+- Gunakan echo, print_r, atau var_dump untuk output
+- Pastikan kode bisa dijalankan tanpa error
+
+========================================

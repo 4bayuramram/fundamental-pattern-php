@@ -1,0 +1,50 @@
+Latihan PHP Namespace – 10 Soal
+================================
+Petunjuk:
+- Jawab setiap soal dengan menulis kode PHP yang sesuai.
+- Gunakan namespace, use, class, function, atau constant sesuai soal.
+- Semua jawaban akan dikumpulkan dalam satu file PHP.
+- Jangan lupa buka tag <?php di awal file jawaban.
+
+Soal 1:
+Buat namespace bernama "Belajar\PHP\Siswa" dan di dalamnya buat class "Murid" 
+dengan method "nama()" yang mengembalikan string "Budi". Buat objek Murid dan 
+tampilkan hasil method nama().
+
+Soal 2:
+Buat namespace bernama "Belajar\PHP\Guru" dan class "Pengajar" dengan method 
+"mapel()" yang mengembalikan "Matematika". Buat objeknya dan tampilkan hasil mapel().
+
+Soal 3:
+Di namespace "MainApp", panggil class Murid dari soal 1 menggunakan kata kunci "use" 
+dan tampilkan method nama().
+
+Soal 4:
+Di namespace "MainApp", panggil class Pengajar dari soal 2 menggunakan alias "GuruMatematika" 
+dan tampilkan method mapel().
+
+Soal 5:
+Buat namespace "Belajar\PHP\Fungsi" dan buat function "halo()" yang mengembalikan string 
+"Halo Namespace!". Panggil function tersebut dari global namespace menggunakan backslash.
+
+Soal 6:
+Buat namespace "Belajar\PHP\Konstanta" dan definisikan constant "VERSI" bernilai "2.0". 
+Tampilkan constant tersebut.
+
+Soal 7:
+Buat namespace "MainApp2" dan gabungkan dua array [1,2] dan [3,4] menggunakan 
+function array_merge dari global namespace, kemudian tampilkan hasilnya.
+
+Soal 8:
+Buat dua namespace berbeda: "A\Produk" dengan class "Buku" (method judul() mengembalikan 
+"PHP untuk Pemula") dan "B\Produk" dengan class "Buku" (method judul() mengembalikan 
+"Belajar JavaScript"). Tampilkan judul dari masing-masing namespace menggunakan alias.
+
+Soal 9:
+Buat namespace "C\Alat" dengan class "Kursi" (method jenis() mengembalikan "Kayu"). 
+Buat namespace "D\Alat" dengan class "Kursi" (method jenis() mengembalikan "Plastik"). 
+Tampilkan hasil masing-masing method menggunakan alias.
+
+Soal 10:
+Jelaskan melalui kode PHP bagaimana cara memanggil class atau function yang berada di 
+global namespace dari dalam namespace manapun.
