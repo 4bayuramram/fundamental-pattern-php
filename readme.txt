@@ -10,7 +10,7 @@ Php dasar
 7.	Conditional + looping 
 8.	Function 
 9.	Array (bisa numerik & asosiatif) 
-10.	Associative array (mirip object JS)
+10.	Associative array 
 
  INTERAKSI I/O & WEB (versi PHP)
 

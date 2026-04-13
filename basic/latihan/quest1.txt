@@ -1,0 +1,88 @@
+FILE: soal_php_dasar.txt
+
+INSTRUKSI:
+Jawablah setiap soal dengan MENULIS KODE PHP SAJA.
+Tidak perlu penjelasan. Semua jawaban akan dikumpulkan dalam satu file.
+
+------------------------------------------------------------
+
+1. (Tipe data + variable)
+
+Buat variabel:
+- $nama (string)
+- $umur (integer)
+- $tinggi (float)
+- $aktif (boolean)
+
+Lalu tampilkan semua variabel menggunakan echo.
+
+------------------------------------------------------------
+
+2. (Operator)
+Buat 2 variabel $a = 10 dan $b = 5.
+Tampilkan hasil:
+- penjumlahan
+- pengurangan
+- perkalian
+- pembagian
+
+------------------------------------------------------------
+
+3. (Output)
+Buat program PHP yang menampilkan:
+"Halo Dunia"
+menggunakan echo dan print (keduanya harus ada).
+
+------------------------------------------------------------
+
+4. (If statement)
+Buat variabel $nilai = 75.
+Jika nilai >= 80 tampilkan "A"
+Jika nilai >= 70 tampilkan "B"
+Jika kurang dari 70 tampilkan "C"
+
+------------------------------------------------------------
+
+5. (Switch case)
+Buat variabel $hari = 3.
+Gunakan switch untuk menampilkan:
+1 = Senin
+2 = Selasa
+3 = Rabu
+4 = Kamis
+5 = Jumat
+
+------------------------------------------------------------
+
+6. (Loop for)
+Tampilkan angka 1 sampai 10 menggunakan for loop.
+
+------------------------------------------------------------
+
+7. (Loop while)
+Tampilkan angka 10 sampai 1 menggunakan while loop.
+
+------------------------------------------------------------
+
+8. (Foreach array)
+Buat array berisi: "apel", "jeruk", "mangga"
+Tampilkan semua isi array menggunakan foreach.
+
+------------------------------------------------------------
+
+9. (Function)
+Buat function bernama luasPersegi($sisi)
+yang mengembalikan hasil luas persegi.
+Uji function dengan sisi = 5.
+
+------------------------------------------------------------
+
+10. (Array asosiatif)
+Buat array asosiatif:
+nama => Andi
+umur => 20
+kelas => XII
+Tampilkan semua data tersebut.
+
+------------------------------------------------------------
+SELESAI
